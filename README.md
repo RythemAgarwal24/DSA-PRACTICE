@@ -10,3 +10,4 @@ Solving LeetCode problems daily in C++.
 | Day 2 | Majority Element | Moore's Voting O(n) |
 | Day 2 | Best Time to Buy & Sell Stock | Greedy O(n) |
 | Day 3 | Pow(x,n) | Binary Exponentiation O(logn) |
+| Day 3 | Contains Duplicate | Sorting O(nlogn) |
