@@ -1,6 +1,7 @@
 // Day 2 - Majority Element
 // Moore's Voting Algorithm - O(n) time, O(1) space
-
+#include<vector>
+using namespace std;
 class Solution {
 public:
     int majorityElement(vector<int>& nums) {
